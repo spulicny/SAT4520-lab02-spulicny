@@ -1,1 +1,0 @@
-An HTML Game created mostly by AI for a class lab.
